@@ -1,0 +1,20 @@
+{
+  "name": "backend-sports",
+  "version": "1.0.0",
+  "description": "Backend para el proyecto del Sportstore",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Servio Pantoja",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.4",
+    "express": "^4.14.0",
+    "newman": "^4.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Football"
+    },
+    {
+        "id": 2,
+        "name": "Beoleiball"
+    },
+    {
+        "id": 3,
+        "name": "kayaking"
+    },
+    {
+        "id": 4,
+        "name": "bobsleigh"
+    },
+    {
+        "id": 5,
+        "name": "canoeing"
+    },
+    {
+        "id": 6,
+        "name": "rafting"
+    },
+    {
+        "id": 7,
+        "name": "freediving"
+    },
+    {
+        "id": 8,
+        "name": "diving"
+    },
+    {
+        "id": 9,
+        "name": "rafting"
+    },
+    {
+        "id": 10,
+        "name": "rowing"
+    }
+]
